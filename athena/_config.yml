@@ -1,2 +1,6 @@
-theme: THEME-NAME
-theme: jekyll-theme-minimal
+
+title: My GitHub Pages Site
+description: My website using Jekyll
+theme: minima
+
+markdown: kramdown
